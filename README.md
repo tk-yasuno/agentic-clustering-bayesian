@@ -677,7 +677,7 @@ agentic-clustering-bayesian/
 
 ## 📝 Changelog
 
-### v1.0 (2025-01-29)
+### v1.0 (2025-11-30)
 
 - ✅ Introduced Bayesian Optimization for all clustering methods
 - ✅ Implemented composite evaluation metrics (Silhouette + DB + Balance)
